@@ -1,0 +1,4 @@
+﻿  pseudorulet.cpp
+C:\Users\Karyu\Desktop\proj\Projekat Kazino\Projekat Kazino\pseudorulet.cpp(16,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Karyu\Desktop\proj\Projekat Kazino\Projekat Kazino\pseudorulet.cpp(57,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Projekat Kazino.vcxproj -> C:\Users\Karyu\Desktop\proj\Projekat Kazino\x64\Debug\Projekat Kazino.exe
